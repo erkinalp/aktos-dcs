@@ -66,7 +66,8 @@ BSD License.
 
 ### Contact and Support
 
-A.K.T.O.S. Electronics, the Open Source Telemetry and Automation Systems company, Turkey
+A.K.T.O.S. Electronics company, Turkey
+AKTOS is a Turkish acronym for "Açık Kaynaklı Telemetri ve Otomasyon Sistemleri", meaning "the Open Source Telemetry and Automation Systems" in English
 info@aktos-elektronik.com
 https://aktos-elektronik.com
 
